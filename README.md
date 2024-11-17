@@ -51,7 +51,7 @@ python app.py
 python fetch.py
 ```
 - check users.json and notion_storage_session.json files are present in directory
-- Final ouput would be stored in **team_members_paginated.json** file
+- Final ouput would be stored in *team_members_paginated.json* file
 
 ## Troubleshooting
 
