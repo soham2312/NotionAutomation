@@ -56,7 +56,7 @@ python fetch.py
 ## Troubleshooting
 
 ### Session Expiration:
- If the session expires, repeat the process to fetch a new token_v2 cookie and update notion_session.json.
+ If the session expires, repeat the process to fetch storage state of login and update notion_session.json.
 
 ### Invalid API Key: 
 Verify that the API key in .env matches your integration key in the Notion dashboard.
