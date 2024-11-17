@@ -51,12 +51,12 @@ python app.py
 python fetch.py
 ```
 - check users.json and notion_storage_session.json files are present in directory
-- Final ouput would be stored in team_members_paginated.json file
+- Final ouput would be stored in **team_members_paginated.json** file
 
 ## Troubleshooting
 
 ### Session Expiration:
- If the session expires, repeat the process to fetch storage state of login and update notion_session.json.
+ If the session expires, repeat the process to fetch storage state of login and update notion_storage_state.json.
 
 ### Invalid API Key: 
 Verify that the API key in .env matches your integration key in the Notion dashboard.
