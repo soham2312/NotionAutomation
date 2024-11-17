@@ -1,4 +1,5 @@
-# Fetching Notion Session Token JSON File and Using the Script
+# Notion Team Members Automation 
+ 
 ## Project Overview
 This project provides a Python script to fetch user details from a Notion workspace using the Notion API. It requires a valid Notion session token (notion_session.json) to authenticate and interact with the Notion platform.
 
